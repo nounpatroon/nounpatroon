@@ -6,7 +6,7 @@
   <samp><br>
   <strong>Hi, I'm JCPG!</strong><br>
   <br>
-  I am a curious programmer<br>
+  I'm a curious programmer<br>
   </samp><br>
 </p>
 
